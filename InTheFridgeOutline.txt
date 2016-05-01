@@ -1,0 +1,53 @@
+classes
+
+fragments and activities
+
+ FridgeList
+    add - intent to AddItem
+    delete
+
+ FridgeItemPager
+    onSwipe?
+    xml fields for data
+    data incrementer
+
+ Splash
+    strings of intro and explanation
+    picture
+    onClick? intent to FridgeList
+ 
+ Camera
+    camera image
+    snap button
+    auto save
+ 
+ AddItem
+    name field & string
+    description field & string
+    date added field prepopulated with today & string
+    button - intent to ItemCam
+    auto save
+
+
+data
+
+ Constants
+
+ FridgeItem
+ 	name
+ 	desc
+ 	date
+ 	photoId
+
+ FridgeJSONSet
+    ArrayList<FridgeItem>
+    
+
+layout files
+
+ splash
+ FridgeList
+ FridgeItemPager
+ AddItem
+ 
+ 

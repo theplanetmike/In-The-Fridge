@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">In The Fridge</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- The add screen -->
+    <string name="title_activity_to_do">ToDoActivity</string>
+	<string name="edittext_fridge_item_name_hint">Enter Title</string>
+	<string name="edittext_fridge_item_desc_hint">Enter Description</string>
+	<string name="edittext_fridge_item_date_hint">Enter Date Added</string>
+	<string name="fridge_item_title">ToDo</string>
+	<string name="fridge_item_name">Item</string>
+	<string name="fridge_item_date">Date Added</string>
+	<string name="fridge_item_desc">Description</string>
+	
+	<!-- for items -->
+	<string name="menu_new_item">Add</string>
+	<string name="delete_item">Delete</string>
+	
+	<!-- camera screen -->
+    <string name="picture_desc">Picture</string>
+	<string name="button_show_camera">Take Picture</string>
+	<string name="camera_snap">Snap</string>
+	
+	<!-- splash screen -->
+    <string name="main_title">What\'s in your fridge?</string>
+	<string name="main_intro">Use this app to take photos of the things in your refrigerator! Record when you put it in so you know exactly how long its been there. No more guessing! No more gross stuff!</string>
+
+</resources>
